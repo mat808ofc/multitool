@@ -1,5 +1,6 @@
 # Mateus's multitool
-<img width="1021" height="818" alt="{5ECAD4C1-78DB-40C9-A3A8-CAEA7E4BD27C}" src="https://github.com/user-attachments/assets/0aaa2ef8-d087-4d9f-a7cd-e78b26a1766f" />
+<img width="951" height="813" alt="{04C5A223-BECE-4044-B17B-7105795AC7D5}" src="https://github.com/user-attachments/assets/ce35ceb5-e8cb-4b04-9bc6-9add8f7eea6c" />
+
 
 ### Inspiration
 
@@ -31,9 +32,15 @@ Others:
 - Top.step
 - Bottom.step
 
+### Note:
+
+It doesn't look like it in the case pictures, but it does have space for the PCB and the holes in between keys are for the diodes and not put too much pressure on them.
+
 Schematic            |  PCB         |   Case
 :-------------------------:|:-------------------------:|:-------------------------:|
-<img width="587" height="673" alt="{85001D8E-1C39-4430-8BED-7A0BB0CF0771}" src="https://github.com/user-attachments/assets/f6e0610d-e5d8-43e4-9b36-ca190eaa9d1a" />  | <img width="773" height="910" alt="{DCF77191-DB60-48A7-B6CD-CCEF439E4061}" src="https://github.com/user-attachments/assets/e72e2ca9-a6f9-4089-b3dd-c7748eec21ec" />  | <img width="1097" height="680" alt="{F8B067FE-7815-4BA3-A05E-7DC6412A2BC4}" src="https://github.com/user-attachments/assets/2c140ce1-fe70-415d-b730-8894769920c7" /> <img width="1053" height="728" alt="{3ABA8B0A-B6AB-428E-ABF1-49B8DDA0E6C8}" src="https://github.com/user-attachments/assets/e9b55b51-590a-455c-ba8a-818adbb0648e" />
+<img width="587" height="673" alt="{85001D8E-1C39-4430-8BED-7A0BB0CF0771}" src="https://github.com/user-attachments/assets/f6e0610d-e5d8-43e4-9b36-ca190eaa9d1a" />  | <img width="773" height="910" alt="{DCF77191-DB60-48A7-B6CD-CCEF439E4061}" src="https://github.com/user-attachments/assets/e72e2ca9-a6f9-4089-b3dd-c7748eec21ec" />  | <img width="1090" height="628" alt="{8693FD8E-24D0-4D0C-A22D-8537B6C40325}" src="https://github.com/user-attachments/assets/1d49632f-c21f-4eb4-bf99-71224985693d" />
+ <img width="933" height="763" alt="{E6EDCE93-94F2-442F-9683-99FF127291C4}" src="https://github.com/user-attachments/assets/80a8ee00-f831-427d-ab98-044b983aa43d" />
+
 
  
 
