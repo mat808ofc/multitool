@@ -9,6 +9,12 @@ I have always loved electronics, physics and engineering and i saw this as an op
 
 My biggest challenge was creating the 3x3 matrix and replacing the top left key with the rotatary encoder switch, but the whole project was very fun to do and the slack community was very helpful (shoutout). Believe it or not, i spent over 12 hours on this project because it was my first and i had to learn how to do things. I think it turned out pretty nice for a first project honestly and i love that now i know all this stuff about electronics!
 
+### Extras
+
+I used KiCad to build the PCB, Fusion 360 for the case and QMK as the firmware. In the future, I want to add more components and I WILL ADD MORE COMPONENTS but for now that's it lol.
+Honestly i want to add something more here but I don't know what to add..
+I'm from Portugal lol
+
 ### Specifications
 
 BOM: 
