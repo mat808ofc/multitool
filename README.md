@@ -7,7 +7,7 @@ I have always loved electronics, physics and engineering and i saw this as an op
 
 ### Challenges
 
-My biggest challenge was creating the 3x3 matrix and replacing the top left key with the rotatary encoder switch, but the whole project was very fun to do and the slack community was very helpful (shoutout). Believe it or not, i spent over 12 hours on this project because it was my first and i had to learn how to do things. I think it turned out pretty nice for a first project honestly and i love that now i know all this stuff about electronics!
+My biggest challenge was creating the 3x3 matrix and replacing the top left key with the rotatary encoder switch, but the whole project was very fun to do and the slack community was very helpful (shoutout). Believe it or not, i spent over 12 hours on this project because it was my first and i had to learn how to do things. I think it turned out pretty nice for a first project honestly and i love that now i know all this stuff about electronics! IT'S JUST THE BEGGINING I AM COMING BACK FOR MORE!!
 
 ### Extras
 
