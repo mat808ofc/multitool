@@ -3,7 +3,7 @@
 
 ### Inspiration
 
-I have always loved electronics, physics and engineering and i saw this as an opportunity to start showing myself to the world and see what actually making a dedicated complex (for me) project was like. Next year I will enter a project by ESA called CanSat (i have to build a satellite the size of a can of soda) and i plan on using my multitool to control and get data from the CanSat. I also plan on exploring the firmware and costumize the multitool every once in a while to do something different with it.
+I have always loved electronics, physics and engineering and i saw this as an opportunity to see what actually making a dedicated project was like. Next year I will enter a project by ESA called CanSat (i have to build a satellite the size of a can of soda) and i plan on using my multitool to control and get data from the CanSat. I also plan on exploring the firmware and costumize the multitool every once in a while to do something different with it.
 
 ### Challenges
 
